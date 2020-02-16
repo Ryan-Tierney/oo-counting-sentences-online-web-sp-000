@@ -16,7 +16,6 @@ class String
     else 
       false 
     end 
-    return self 
   end
 
   def exclamation?
